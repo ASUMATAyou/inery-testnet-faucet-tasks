@@ -10,3 +10,9 @@ To verify the quality of your code, you will need to clone the specific branch o
 
 Join For Inery Discord
 https://discord.gg/inery
+
+Join For Inery Telegram
+https://t.me/inery_blockchain
+
+Follow on Twitter 
+https://twitter.com/ineryblockchain
